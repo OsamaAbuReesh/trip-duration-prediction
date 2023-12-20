@@ -1,4 +1,4 @@
-# Project Title: 🚖 Taxi Trip Duration Prediction with Inferential Statistics 📊
+# Taxi Trip Duration Prediction with Inferential Statistics 📊🚖
 
 ## Overview
 
